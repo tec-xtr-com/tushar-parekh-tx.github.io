@@ -12,9 +12,9 @@ email: tsptx1@gmail.com, cell # 1-647-785-7878, citizen: canada
 * migrated client and project based eks clusters to virtual spaces / vclusters into loft managed eks cluster
 * managed large database clusters, ETL pipelines and real-time data migrations
 
-#### technical experience summary:
+#### technical experience summary
 
-type | details
+ | details
 ---- | -------
 roles | senior devops engineer,  data architect,  business intelligence architect
 clouds | aws, azure, digital ocean, vultr, civo, fly.io
