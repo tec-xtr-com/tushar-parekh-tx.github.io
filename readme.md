@@ -24,4 +24,6 @@ containers | docker, podman
 infrastructure as code | terraform
 continuous integration | github actions, jenkins
 continuous deployment | flux2, keel.sh
+source control platforms | github, gitlab
+databases | oracle, postgres, mysql, mongodb, monetdb, cassandra, hive, hbase
 
