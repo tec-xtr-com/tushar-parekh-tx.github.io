@@ -18,4 +18,10 @@ type | details
 ---- | -------
 roles | senior devops engineer,  data architect,  business intelligence architect
 clouds | aws, azure, digital ocean, vultr, civo, fly.io
+clusters | eks, aks, loft (vcluster)
+service mesh | linkerd
+containers | docker, podman
+infrastructure as code | terraform
+continuous integration | github actions, jenkins
+continuous deployment | flux2, keel.sh
 
