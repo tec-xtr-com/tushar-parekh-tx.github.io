@@ -1,3 +1,6 @@
+email: tsptx1@gmail.com, cell # 1-647-785-7878, citizen: canada
+
+
 #### recently completed projects
 
 * deployed ML training setup for RAG models on on-prem GPU servers with tailscale integration
