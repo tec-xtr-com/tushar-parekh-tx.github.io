@@ -26,4 +26,7 @@ continuous integration | github actions, jenkins
 continuous deployment | flux2, keel.sh
 source control platforms | github, gitlab
 databases | oracle, postgres, mysql, mongodb, monetdb, cassandra, hive, hbase
+data modeling | logical data models, entity relationship diagrams, physical data models
+data management | data warehouse design, metadata and master data management, etl pipelines, performance tuning, database migration, disaster recovery
+languages, shells | c, javascript, sql, plpgsql, bash, ash
 
