@@ -35,4 +35,8 @@ languages, shells | c, javascript, sql, plpgsql, bash, ash
 company / clients | role | tenure
 ----------------- | ---- | ------
 [hypergiant llc, austin, texas](https://www.hypergiant.com) | senior devops engineer | apr 2019 - may 2024
+cerebri ai, toronto | data architect | mar 2016 – nov 2018
+keek inc, toronto | business intelligence architect | sep 2014 – mar 2016
+couch commerce inc, toronto | business intelligence architect | mar 2012 – aug 2014
+ganz, toronto | database architect | may 2009 – mar 2012
 
