@@ -25,6 +25,7 @@ container runtimes | docker, podman, wasm
 infrastructure as code | terraform
 continuous integration | github actions, jenkins
 continuous deployment | flux2, keel.sh
+logs, metrics, alerts | [vector](https://vector.dev), [datadog](https://www.datadoghq.com), grafana, prometheus
 source control platforms | github, gitlab
 databases | oracle, postgres, mysql, mongodb, monetdb, cassandra, hive, hbase
 data modeling | logical data models, entity relationship diagrams, physical data models
