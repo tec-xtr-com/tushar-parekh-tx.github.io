@@ -1,7 +1,7 @@
 email: tsptx1@gmail.com, cell # 1-647-785-7878, citizen: canada
 
 
-#### recently completed projects
+### recently completed projects
 
 * deployed ML training setup for RAG models on on-prem GPU servers with tailscale integration
 * completed SCIM provisioning for multiple providers with Azure Entra
@@ -12,9 +12,10 @@ email: tsptx1@gmail.com, cell # 1-647-785-7878, citizen: canada
 * migrated client and project based eks clusters to virtual spaces / vclusters into loft managed eks cluster
 * managed large database clusters, ETL pipelines and real-time data migrations
 
-#### technical experience summary
 
-. | details
+### technical experience summary
+
+ | details
 :--- | :------
 roles | senior devops engineer,  data architect,  business intelligence architect
 clouds | aws, azure, digital ocean, vultr, civo, fly.io
@@ -30,7 +31,8 @@ data modeling | logical data models, entity relationship diagrams, physical data
 data management | data warehouse design, metadata and master data management<br>etl pipelines, performance tuning, database migration, disaster recovery
 languages, shells | c, javascript, sql, plpgsql, bash, ash
 
-#### work experience summary
+
+### work experience summary
 
 company | clients | role | tenure
 :------ | :------ | :--- | :-----
@@ -43,7 +45,8 @@ verax solutions corp, toronto | davis & henderson | senior consultant | may 2004
 orange idea corp, toronto | | technical architect | may 2000 - sep 2003
 dmc inc, toronto | manulife financials, nesbitt burns,<br>toronto stock exchange, canadian tire,<br>fidelity investments | consultant | sep 1997 - apr 2000
 
-#### education summary
+
+### education summary
 
 institution | degree / certification | year
 :---------- | :--------------------- | :---
