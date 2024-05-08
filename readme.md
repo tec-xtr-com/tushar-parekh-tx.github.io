@@ -41,5 +41,14 @@ couch commerce inc, toronto | teambuy.ca, dealfind.com | business intelligence a
 ganz, toronto | | database architect | may 2009 - mar 2012
 verax solutions corp, toronto | davis & henderson | senior consultant | may 2004 - feb 2009
 orange idea corp, toronto | | technical architect | may 2000 - sep 2003
-dmc inc, toronto | manulife financials, nesbitt burns, toronto stock<br>exchange, canadian tire, fidelity investments | consultant | sep 1997 - apr 2000
+dmc inc, toronto | manulife financials, nesbitt burns,<br>toronto stock exchange, canadian tire,<br>fidelity investments | consultant | sep 1997 - apr 2000
+
+#### education summary
+
+institution | degree / certification | year
+----------- | ---------------------- | ----
+executive education centre<br>york university schulich school<br>toronto | developing emotional intelligence | 2008
+learning tree international, toronto | project management | 2005
+university of bombay | bachelor of commerce | 1985
+national institute of information technology, bombay | diploma in programming | 1982
 
