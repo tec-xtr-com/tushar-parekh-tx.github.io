@@ -30,3 +30,8 @@ data modeling | logical data models, entity relationship diagrams, physical data
 data management | data warehouse design, metadata and master data management, etl pipelines, performance tuning, database migration, disaster recovery
 languages, shells | c, javascript, sql, plpgsql, bash, ash
 
+#### work experience summary
+company (clients) | role | tenure
+----------------- | ---- | ------
+[hypergiant llc, austin, texas](https://www.hypergiant.com) | senior devops engineer | apr 2019 - may 2024
+
