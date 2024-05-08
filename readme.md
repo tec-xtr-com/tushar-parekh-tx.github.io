@@ -15,7 +15,7 @@ email: tsptx1@gmail.com, cell # 1-647-785-7878, citizen: canada
 #### technical experience summary
 
 . | details
----- | -------
+:--- | :------
 roles | senior devops engineer,  data architect,  business intelligence architect
 clouds | aws, azure, digital ocean, vultr, civo, fly.io
 clusters | eks, aks, loft (vcluster)
@@ -33,7 +33,7 @@ languages, shells | c, javascript, sql, plpgsql, bash, ash
 #### work experience summary
 
 company | clients | role | tenure
-------- | ------- | ---- | ------
+:------ | :------ | :--- | :-----
 [hypergiant llc, austin, texas](https://www.hypergiant.com) | | senior devops engineer | apr 2019 - may 2024
 cerebri ai, toronto | mercedes benz, general motors,<br>trust ford, scotia bank | data architect | mar 2016 - nov 2018
 keek inc, toronto | | business intelligence architect | sep 2014 - mar 2016
@@ -46,7 +46,7 @@ dmc inc, toronto | manulife financials, nesbitt burns,<br>toronto stock exchange
 #### education summary
 
 institution | degree / certification | year
------------ | ---------------------- | ----
+:---------- | :--------------------- | :---
 executive education centre<br>york university schulich school<br>toronto | developing emotional intelligence | 2008
 learning tree international, toronto | project management | 2005
 university of bombay | bachelor of commerce | 1985
