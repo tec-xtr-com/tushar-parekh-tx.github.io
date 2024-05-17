@@ -20,7 +20,8 @@ email: tsptx1@gmail.com, cell # 1-647-785-7878, citizen: canada
 roles completed | senior devops engineer,  data architect,  business intelligence architect
 clouds worked on | aws, azure, digital ocean, vultr, civo, fly.io
 k8s clusters | eks, aks, loft (vcluster)
-service meshes deployed | linkerd, istio
+workload orchestrator | nomad
+service meshes deployed | linkerd, istio, consul
 container runtimes | docker, podman, wasm
 infrastructure as code | terraform
 continuous integration | github actions, jenkins
