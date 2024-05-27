@@ -19,7 +19,7 @@ dmc inc, toronto | manulife financials, nesbitt burns,<br>toronto stock exchange
 
 &nbsp; | details
 :--- | :------
-roles completed | senior devops engineer,  data architect,  business intelligence architect
+roles completed | senior devops engineer, senior data engineer,<br>database architect, business intelligence architect
 clouds worked on | aws, azure, digital ocean, vultr, civo, fly.io
 k8s clusters | eks, aks, loft (vcluster)
 workload orchestrator | nomad
