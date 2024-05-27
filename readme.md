@@ -29,7 +29,7 @@ continuous integration | [github actions](https://github.com/features/actions), 
 continuous deployment | [flux2](https://fluxcd.io), [keel](https://keel.sh)
 logs, metrics, alerts | [vector](https://vector.dev), [datadog](https://www.datadoghq.com), [grafana](https://grafana.com), [prometheus](https://prometheus.io)
 source control management | [github](https://github.com), [gitlab](https://gitlab.com)
-databases | [oracle](https://www.oracle.com), [postgres](https://www.postgresql.org), [mysql](https://www.mysql.com), [mongodb](https://www.mongodb.com), monetdb, cassandra, hive, hbase
+databases | [oracle](https://www.oracle.com), [postgres](https://www.postgresql.org), [mysql](https://www.mysql.com), [mongodb](https://www.mongodb.com), [monetdb](https://www.monetdb.org), [cassandra](https://cassandra.apache.org), [hive](https://hive.apache.org), [hbase](https://hbase.apache.org)
 data modeling | logical data models, entity relationship diagrams, physical data models
 data management | data warehouse design, metadata and master data management<br>etl pipelines, performance tuning, database migration, disaster recovery
 languages, shells | c, javascript, sql, plpgsql, bash, ash
