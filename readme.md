@@ -6,7 +6,7 @@ email: tsptx1@gmail.com, cell # 1-647-785-7878, citizen: canada
 company | clients | role | tenure
 :------ | :------ | :--- | :-----
 [hypergiant, austin](https://www.hypergiant.com) | | senior devops engineer,<br>senior data engineer | apr 2019 - may 2024
-cerebri ai, austin/toronto | mercedes benz, general motors,<br>trust ford, scotia bank | data architect | mar 2016 - nov 2018
+cerebri ai, austin/toronto | mercedes benz, general motors,<br>trust ford, scotia bank | database architect | mar 2016 - nov 2018
 keek inc, toronto | | business intelligence architect | sep 2014 - mar 2016
 couch commerce inc, toronto | teambuy.ca, dealfind.com | business intelligence architect | mar 2012 - aug 2014
 ganz, toronto | | database architect | may 2009 - mar 2012
@@ -19,7 +19,6 @@ dmc inc, toronto | manulife financials, nesbitt burns,<br>toronto stock exchange
 
 &nbsp; | details
 :--- | :------
-roles completed | senior devops engineer, senior data engineer,<br>database architect, business intelligence architect
 clouds worked on | aws, azure, digital ocean, vultr, civo, fly.io
 k8s clusters | eks, aks, loft (vcluster)
 workload orchestrator | nomad
