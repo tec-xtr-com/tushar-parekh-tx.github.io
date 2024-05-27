@@ -24,9 +24,9 @@ k8s clusters | [eks](https://aws.amazon.com/eks), [aks](https://azure.microsoft.
 workload orchestrator | [nomad](https://www.nomadproject.io)
 service meshes deployed | [linkerd](https://linkerd.io), [istio](https://istio.io), [consul](https://www.consul.io)
 container runtimes | [docker](https://www.docker.com), [podman](https://podman.io), [wasmtime](https://wasmtime.dev)
-infrastructure as code | terraform
-continuous integration | github actions, jenkins
-continuous deployment | flux2, keel.sh
+infrastructure as code | [terraform](https://www.terraform.io)
+continuous integration | [github actions](https://github.com/features/actions), [jenkins](https://www.jenkins.io)
+continuous deployment | [flux2](https://fluxcd.io), [keel.sh](https://keel.sh)
 logs, metrics, alerts | [vector](https://vector.dev), [datadog](https://www.datadoghq.com), grafana, prometheus
 source control platforms | github, gitlab
 databases | oracle, postgres, mysql, mongodb, monetdb, cassandra, hive, hbase
