@@ -26,9 +26,9 @@ service meshes deployed | [linkerd](https://linkerd.io), [istio](https://istio.i
 container runtimes | [docker](https://www.docker.com), [podman](https://podman.io), [wasmtime](https://wasmtime.dev)
 infrastructure as code | [terraform](https://www.terraform.io)
 continuous integration | [github actions](https://github.com/features/actions), [jenkins](https://www.jenkins.io)
-continuous deployment | [flux2](https://fluxcd.io), [keel.sh](https://keel.sh)
-logs, metrics, alerts | [vector](https://vector.dev), [datadog](https://www.datadoghq.com), grafana, prometheus
-source control platforms | github, gitlab
+continuous deployment | [flux2](https://fluxcd.io), [keel](https://keel.sh)
+logs, metrics, alerts | [vector](https://vector.dev), [datadog](https://www.datadoghq.com), [grafana](https://grafana.com), [prometheus](https://prometheus.io)
+source control management | [github](https://github.com), [gitlab](https://gitlab.com)
 databases | oracle, postgres, mysql, mongodb, monetdb, cassandra, hive, hbase
 data modeling | logical data models, entity relationship diagrams, physical data models
 data management | data warehouse design, metadata and master data management<br>etl pipelines, performance tuning, database migration, disaster recovery
