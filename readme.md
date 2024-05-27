@@ -19,7 +19,7 @@ dmc inc, toronto | manulife financials, nesbitt burns,<br>toronto stock exchange
 
 &nbsp; | details
 :--- | :------
-clouds worked on | [aws](https://aws.amazon.com), [azure](https://azure.microsoft.com), [fly.io](https://fly.io), [vultr](https://www.vultr.com), [digital ocean](https://www.digitalocean.com)
+clouds | [aws](https://aws.amazon.com), [azure](https://azure.microsoft.com), [fly.io](https://fly.io), [vultr](https://www.vultr.com), [digital ocean](https://www.digitalocean.com)
 k8s clusters | [eks](https://aws.amazon.com/eks), [aks](https://azure.microsoft.com/products/kubernetes-service), [vcluster](https://www.vcluster.com)
 workload orchestrator | [nomad](https://www.nomadproject.io)
 service meshes deployed | [linkerd](https://linkerd.io), [istio](https://istio.io), [consul](https://www.consul.io)
@@ -29,7 +29,7 @@ continuous integration | [github actions](https://github.com/features/actions), 
 continuous deployment | [flux2](https://fluxcd.io), [keel](https://keel.sh)
 logs, metrics, alerts | [vector](https://vector.dev), [datadog](https://www.datadoghq.com), [grafana](https://grafana.com), [prometheus](https://prometheus.io)
 source control management | [github](https://github.com), [gitlab](https://gitlab.com)
-databases | oracle, postgres, mysql, mongodb, monetdb, cassandra, hive, hbase
+databases | [oracle](https://www.oracle.com), [postgres](https://www.postgresql.org), [mysql](https://www.mysql.com), [mongodb](https://www.mongodb.com), monetdb, cassandra, hive, hbase
 data modeling | logical data models, entity relationship diagrams, physical data models
 data management | data warehouse design, metadata and master data management<br>etl pipelines, performance tuning, database migration, disaster recovery
 languages, shells | c, javascript, sql, plpgsql, bash, ash
