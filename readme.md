@@ -19,8 +19,8 @@ dmc inc, toronto | manulife financials, nesbitt burns,<br>toronto stock exchange
 
 &nbsp; | details
 :--- | :------
-clouds worked on | [aws](https://aws.amazon.com), [azure](https://azure.microsoft.com), [fly.io](https://fly.io), vultr, digital ocean
-k8s clusters | eks, aks, loft (vcluster)
+clouds worked on | [aws](https://aws.amazon.com), [azure](https://azure.microsoft.com), [fly.io](https://fly.io), [vultr](https://www.vultr.com), [digital ocean](https://www.digitalocean.com)
+k8s clusters | [eks](https://aws.amazon.com/eks), aks, loft (vcluster)
 workload orchestrator | nomad
 service meshes deployed | linkerd, istio, consul
 container runtimes | docker, podman, wasm
