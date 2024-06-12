@@ -32,7 +32,7 @@ source control management | [github](https://github.com), [gitlab](https://gitla
 databases | [oracle](https://www.oracle.com), [postgres](https://www.postgresql.org), [mysql](https://www.mysql.com), [mongodb](https://www.mongodb.com), [monetdb](https://www.monetdb.org), [cassandra](https://cassandra.apache.org), [hive](https://hive.apache.org), [hbase](https://hbase.apache.org)
 data modeling | logical data models, entity relationship diagrams, physical data models
 data management | data warehouse design, metadata and master data management<br>etl pipelines, performance tuning, database migration, disaster recovery
-languages, shells | c, javascript, sql, plpgsql, bash, ash
+languages, shells | c, javascript, python, sql, plpgsql, bash, ash
 
 
 ### recently completed projects
