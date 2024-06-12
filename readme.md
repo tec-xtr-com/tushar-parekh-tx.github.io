@@ -19,9 +19,9 @@ dmc inc, toronto | manulife financials, nesbitt burns,<br>toronto stock exchange
 
 &nbsp; | details
 :--- | :------
-clouds | [aws](https://aws.amazon.com), [azure](https://azure.microsoft.com), [fly.io](https://fly.io), [vultr](https://www.vultr.com), [digital ocean](https://www.digitalocean.com)
-k8s clusters | [eks](https://aws.amazon.com/eks), [aks](https://azure.microsoft.com/products/kubernetes-service), [vcluster](https://www.vcluster.com)
-workload orchestrator | [nomad](https://www.nomadproject.io)
+clouds managed | [aws](https://aws.amazon.com), [azure](https://azure.microsoft.com), [fly.io](https://fly.io), [vultr](https://www.vultr.com), [digital ocean](https://www.digitalocean.com)
+k8s clusters deployed, managed | [eks](https://aws.amazon.com/eks), [aks](https://azure.microsoft.com/products/kubernetes-service), [vcluster](https://www.vcluster.com)
+workload orchestrator | [nomad](https://www.nomadproject.io), [kubernetes](https://kubernetes.io)
 service meshes deployed | [linkerd](https://linkerd.io), [istio](https://istio.io), [consul](https://www.consul.io)
 container runtimes | [docker](https://www.docker.com), [podman](https://podman.io), [wasmtime](https://wasmtime.dev)
 infrastructure as code | [terraform](https://www.terraform.io)
