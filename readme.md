@@ -10,6 +10,7 @@
 
 
 ### technical experience summary
+
 &nbsp; | details
 :--- | :------
 clouds managed | [aws](https://aws.amazon.com), [azure](https://azure.microsoft.com), [fly.io](https://fly.io), [vultr](https://www.vultr.com), [digital ocean](https://www.digitalocean.com)
@@ -29,6 +30,7 @@ languages, shells | c, javascript, python, sql, plpgsql, bash, ash
 
 
 ### work experience summary
+
 company | clients | role | tenure
 :------ | :------ | :--- | :-----
 [hypergiant, austin](https://www.hypergiant.com) | | senior devops engineer,<br>senior data engineer | apr 2019 - may 2024

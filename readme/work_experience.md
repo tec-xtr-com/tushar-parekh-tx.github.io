@@ -1,4 +1,5 @@
 ### work experience summary
+
 company | clients | role | tenure
 :------ | :------ | :--- | :-----
 [hypergiant, austin](https://www.hypergiant.com) | | senior devops engineer,<br>senior data engineer | apr 2019 - may 2024
