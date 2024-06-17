@@ -7,7 +7,7 @@ k8s clusters deployed, managed | [eks](https://aws.amazon.com/eks), [aks](https:
 workload orchestrator | [nomad](https://www.nomadproject.io), [kubernetes](https://kubernetes.io)
 service meshes deployed | [linkerd](https://linkerd.io), [istio](https://istio.io), [consul](https://www.consul.io)
 container runtimes | [docker](https://www.docker.com), [podman](https://podman.io), [wasmtime](https://wasmtime.dev)
-infrastructure as code | [terraform](https://www.terraform.io)
+infrastructure as code | [terraform](https://www.terraform.io), [pulumi](https://www.pulumi.com)
 continuous integration | [github actions](https://github.com/features/actions), [jenkins](https://www.jenkins.io)
 continuous deployment | [flux2](https://fluxcd.io), [keel](https://keel.sh)
 logs, metrics, alerts | [vector](https://vector.dev), [datadog](https://www.datadoghq.com), [grafana](https://grafana.com), [prometheus](https://prometheus.io)
