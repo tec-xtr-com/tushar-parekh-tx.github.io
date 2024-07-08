@@ -1,3 +1,17 @@
+### work experience summary
+
+company | clients | role | tenure
+:------ | :------ | :--- | :-----
+[hypergiant, austin](https://www.hypergiant.com) | | senior devops engineer,<br>senior data engineer | apr 2019 - may 2024
+cerebri ai, austin / toronto | mercedes benz, general motors,<br>trust ford, scotia bank | database architect | mar 2016 - nov 2018
+keek inc, toronto | | business intelligence architect | sep 2014 - mar 2016
+couch commerce inc, toronto | teambuy.ca, dealfind.com | business intelligence architect | mar 2012 - aug 2014
+ganz, toronto | | database architect | may 2009 - mar 2012
+verax solutions corp, toronto | davis & henderson | senior consultant | may 2004 - feb 2009
+orange idea corp, toronto | | technical architect | may 2000 - sep 2003
+dmc inc, toronto | manulife financials, nesbitt burns,<br>toronto stock exchange, canadian tire,<br>fidelity investments | consultant | sep 1997 - apr 2000
+
+
 ### projects completed recently
 * designed, deployed and managed multiple IaC projects using [terraform](https://www.terraform.io) for [eks](https://aws.amazon.com/eks) clusters with [flux2](https://fluxcd.io), [loft](https://loft.sh) vclusters to US government regions having [karpenter](https://karpenter.sh) managed [jupyterlab](https://jupyter.org) cpu and gpu workloads.
 * multi-tenant, secured and isoldated deployment of [jupyterlab](https://jupyter.org) on data center gpu servers with [tailscale](https://tailscale.com) integration resulting in optimum utilisation of gpu server resources.
@@ -28,17 +42,12 @@ data management | data warehouse design, metadata and master data management<br>
 languages, shells | c, javascript, python, sql, plpgsql, bash, ash
 
 
-### work experience summary
-
-company | clients | role | tenure
-:------ | :------ | :--- | :-----
-[hypergiant, austin](https://www.hypergiant.com) | | senior devops engineer,<br>senior data engineer | apr 2019 - may 2024
-cerebri ai, austin / toronto | mercedes benz, general motors,<br>trust ford, scotia bank | database architect | mar 2016 - nov 2018
-keek inc, toronto | | business intelligence architect | sep 2014 - mar 2016
-couch commerce inc, toronto | teambuy.ca, dealfind.com | business intelligence architect | mar 2012 - aug 2014
-ganz, toronto | | database architect | may 2009 - mar 2012
-verax solutions corp, toronto | davis & henderson | senior consultant | may 2004 - feb 2009
-orange idea corp, toronto | | technical architect | may 2000 - sep 2003
-dmc inc, toronto | manulife financials, nesbitt burns,<br>toronto stock exchange, canadian tire,<br>fidelity investments | consultant | sep 1997 - apr 2000
+### education summary
+institution | degree / certification | year
+:---------- | :--------------------- | :---
+executive education centre<br>york university schulich school, toronto | developing emotional intelligence | 2008
+learning tree international, toronto | project management | 2005
+university of bombay | bachelor of commerce | 1985
+national institute of information technology, bombay | diploma in programming | 1982
 
 
