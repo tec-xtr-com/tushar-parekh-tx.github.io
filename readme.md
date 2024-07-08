@@ -43,6 +43,7 @@ languages, shells | c, javascript, python, sql, plpgsql, bash, ash
 
 
 ### education summary
+
 institution | degree / certification | year
 :---------- | :--------------------- | :---
 executive education centre<br>york university schulich school, toronto | developing emotional intelligence | 2008
