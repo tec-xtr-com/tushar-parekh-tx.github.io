@@ -2,7 +2,7 @@
 
 [Hypergiant LLC, Austin, Texas](https://www.hypergiant.com) (Senior DevOps Engineer, April 2019 to May 2024)
 ---
-* Developed IaC projects using [terraform](https://www.terraform.io) for [EKS](https://aws.amazon.com/eks) clusters with [Flux2](https://fluxcd.io), [Loft](https://loft.sh) vclusters to US government regions having [Karpenter](https://karpenter.sh) managed [Jupyterlab](https://jupyter.org) cpu and gpu workloads..
+* Developed IaC projects using [Terraform](https://www.terraform.io) for [EKS](https://aws.amazon.com/eks) clusters with [Flux2](https://fluxcd.io), [Loft](https://loft.sh) vclusters to US government regions having [Karpenter](https://karpenter.sh) managed [Jupyterlab](https://jupyter.org) cpu and gpu workloads..
 * Multi-tenant, secured and isoldated deployment of [Jupyterlab](https://jupyter.org) on data center gpu servers with [Tailscale](https://tailscale.com) integration resulting in optimum utilisation of gpu server resources.
 * Developed security scanning for source code and container images with log shipping via [Vector](https://vector.dev) to [Datadog](https://www.datadoghq.com).
 * Designed github [Dependabot](https://docs.github.com/en/code-security/getting-started/dependabot-quickstart-guide) scanning for enterprise git repos using various package registries e.g. maven, npm, go, pip, swift.
@@ -31,8 +31,8 @@ Languages | Python, GO, Javascript, SQL, PlPgsql, C
 
 #### Education Summary
 
-institution | degree / certification | year
+Institution | Degree / Certification | Year
 :---------- | :--------------------- | :---
-executive education centre<br>york university schulich school, toronto | developing emotional intelligence | 2008
-learning tree international, toronto | project management | 2005
-national institute of information technology, bombay | diploma in programming | 1982
+Executive Education Centre<br>York University Schulich School, Toronto | Developing Emotional Intelligence | 2008
+Learning Tree International, Toronto | Project Management | 2005
+National Institute of Information Technology, Bombay | Diploma in Programming | 1982
