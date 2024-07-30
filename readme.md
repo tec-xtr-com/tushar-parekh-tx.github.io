@@ -1,6 +1,6 @@
 #### Work Experience Summary
 
-**[Hypergiant LLC, Austin, Texas](https://www.hypergiant.com) (Senior DevOps Engineer, April 2019 to May 2024)**
+[Hypergiant LLC, Austin, Texas](https://www.hypergiant.com) (Senior DevOps Engineer, April 2019 to May 2024)
 ---
 * Developed IaC projects using [terraform](https://www.terraform.io) for [eks](https://aws.amazon.com/eks) clusters with [flux2](https://fluxcd.io), [loft](https://loft.sh) vclusters to US government regions having [karpenter](https://karpenter.sh) managed [jupyterlab](https://jupyter.org) cpu and gpu workloads..
 * Multi-tenant, secured and isoldated deployment of [jupyterlab](https://jupyter.org) on data center gpu servers with [tailscale](https://tailscale.com) integration resulting in optimum utilisation of gpu server resources.
@@ -10,13 +10,13 @@
 * Created SBOMs using [syft](https://github.com/anchore/syft) for various container images stored in enterprise registries.
 * Managed sharded relational and columnar database clusters and deployed ETL pipelines for ML projects.
 
-**Cerebri AI, Toronto (Database Architect, March 2016 to Nov 2018)**
+Cerebri AI, Toronto (Database Architect, March 2016 to Nov 2018)
 ---
 * Deployed MonetDB columnar databases for Machine Learning data sets processing.
 * Created ETL pipelines for processing data from Hadoop clusters for Machine Learning.
 * Designed Postgresql databases for clients OLTP production data sets.
 
-### technical experience summary
+#### Technical Experience Summary
 
 &nbsp; | details
 :--- | :------
@@ -29,11 +29,10 @@ Logs, metrics, alerts | [Vector](https://vector.dev), [Datadog](https://www.data
 Databases | [Postgresql](https://www.postgresql.org), [Mongodb](https://www.mongodb.com), [Monetdb](https://www.monetdb.org)
 Languages | Python, GO, Javascript, Python, SQL, PlPgsql, C
 
-#### education summary
+#### Education Summary
 
 institution | degree / certification | year
 :---------- | :--------------------- | :---
 executive education centre<br>york university schulich school, toronto | developing emotional intelligence | 2008
 learning tree international, toronto | project management | 2005
 national institute of information technology, bombay | diploma in programming | 1982
-
