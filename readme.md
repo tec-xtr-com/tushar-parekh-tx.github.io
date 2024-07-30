@@ -19,7 +19,6 @@
 
 &nbsp; | Details
 :----- | :------
-
 Clouds Managed | [AWS](https://aws.amazon.com), [Azure](https://azure.microsoft.com), [Fly.io](https://fly.io), [Vultr](https://www.vultr.com)
 Kubernetes clusters deployed | [EKS](https://aws.amazon.com/eks), [AKS](https://azure.microsoft.com/products/kubernetes-service), [VCluster](https://www.vcluster.com)
 Infrastructure as Code | [terraform](https://www.terraform.io), [pulumi](https://www.pulumi.com)
