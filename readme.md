@@ -15,6 +15,7 @@
 * Deployed MonetDB columnar databases for Machine Learning data sets processing.
 * Created ETL pipelines for processing data from Hadoop clusters for Machine Learning.
 * Designed Postgresql databases for clients OLTP production data sets.
+
 ### technical experience summary
 
 &nbsp; | details
@@ -27,6 +28,7 @@ Continuous Deployment (CD) | [Flux2](https://fluxcd.io), [Keel.sh](https://keel.
 Logs, metrics, alerts | [Vector](https://vector.dev), [Datadog](https://www.datadoghq.com), [Grafana](https://grafana.com), [Prometheus](https://prometheus.io)
 Databases | [Postgresql](https://www.postgresql.org), [Mongodb](https://www.mongodb.com), [Monetdb](https://www.monetdb.org)
 Languages | Python, GO, Javascript, Python, SQL, PlPgsql, C
+
 #### education summary
 
 institution | degree / certification | year
@@ -34,3 +36,4 @@ institution | degree / certification | year
 executive education centre<br>york university schulich school, toronto | developing emotional intelligence | 2008
 learning tree international, toronto | project management | 2005
 national institute of information technology, bombay | diploma in programming | 1982
+
