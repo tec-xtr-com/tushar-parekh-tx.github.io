@@ -16,10 +16,8 @@
 * Created ETL pipelines for processing data from Hadoop clusters for Machine Learning.
 * Designed Postgresql databases for clients OLTP production data sets.
 
-#### Technical Experience Summary
-
-&nbsp; | Details
-:--- | :------
+Technical Experience Summary | Details
+:--------------------------- | :------
 Clouds Managed | [AWS](https://aws.amazon.com), [Azure](https://azure.microsoft.com), [Fly.io](https://fly.io), [Vultr](https://www.vultr.com)
 Kubernetes clusters deployed | [EKS](https://aws.amazon.com/eks), [AKS](https://azure.microsoft.com/products/kubernetes-service), [VCluster](https://www.vcluster.com)
 Infrastructure as Code | [Terraform](https://www.terraform.io), [Pulumi](https://www.pulumi.com)
@@ -28,10 +26,8 @@ Logs, Metrics, Alerts management | [Vector](https://vector.dev), [Datadog](https
 Databases | [Postgresql](https://www.postgresql.org), [Mongodb](https://www.mongodb.com), [Monetdb](https://www.monetdb.org)
 Languages | Python, GO, Javascript, SQL, PlPgsql, C
 
-#### Education Summary
-
-Institution | Degree / Certification | Year
-:---------- | :--------------------- | :---
+Education Institution | Degree / Certification | Year
+:-------------------- | :--------------------- | :---
 Executive Education Centre<br>York University Schulich School, Toronto | Developing Emotional Intelligence | 2008
 Learning Tree International, Toronto | Project Management | 2005
 National Institute of Information Technology, Bombay | Diploma in Programming | 1982
