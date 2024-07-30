@@ -13,6 +13,7 @@
 * Deployed MonetDB columnar databases for Machine Learning data sets processing.
 * Created ETL pipelines for processing data from Hadoop clusters for Machine Learning.
 * Designed Postgresql databases for clients OLTP production data sets.
+
 ---
 
 Technical Experience Summary | Details
@@ -24,6 +25,7 @@ Continuous Integration and Deployment (CI/CD) | [Github Actions](https://github.
 Logs, Metrics, Alerts management | [Vector](https://vector.dev), [Datadog](https://www.datadoghq.com), [Grafana](https://grafana.com), [Prometheus](https://prometheus.io)
 Databases | [Postgresql](https://www.postgresql.org), [Mongodb](https://www.mongodb.com), [Monetdb](https://www.monetdb.org)
 Languages | Python, GO, Javascript, SQL, PlPgsql, C
+
 ---
 
 Education Institution | Degree / Certification | Year
