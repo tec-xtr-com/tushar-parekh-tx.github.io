@@ -1,6 +1,4 @@
-#### Recent Work Experience Summary
-
-[Hypergiant LLC, Austin, Texas](https://www.hypergiant.com) (Senior DevOps Engineer, April 2019 to May 2024)
+[Hypergiant LLC, Austin, Texas](https://www.hypergiant.com) - Senior DevOps Engineer - April 2019 to May 2024
 ---
 * Developed IaC projects using [Terraform](https://www.terraform.io) for [EKS](https://aws.amazon.com/eks) clusters with [Flux2](https://fluxcd.io), [Loft](https://loft.sh) vclusters to US government regions having [Karpenter](https://karpenter.sh) managed [Jupyterlab](https://jupyter.org) cpu and gpu workloads..
 * Multi-tenant, secured and isoldated deployment of [Jupyterlab](https://jupyter.org) on data center gpu servers with [Tailscale](https://tailscale.com) integration resulting in optimum utilisation of gpu server resources.
@@ -10,12 +8,13 @@
 * Created SBOMs using [Syft](https://github.com/anchore/syft) for various container images stored in enterprise registries.
 * Managed sharded relational and columnar database clusters and deployed ETL pipelines for ML projects.
 
-[Cerebri AI, Toronto](https://www.cerebriai.com) (Database Architect, March 2016 to Nov 2018)
+[Cerebri AI, Toronto](https://www.cerebriai.com) - Database Architect - March 2016 to Nov 2018
 ---
 * Deployed MonetDB columnar databases for Machine Learning data sets processing.
 * Created ETL pipelines for processing data from Hadoop clusters for Machine Learning.
 * Designed Postgresql databases for clients OLTP production data sets.
 
+---
 Technical Experience Summary | Details
 :--------------------------- | :------
 Clouds Managed | [AWS](https://aws.amazon.com), [Azure](https://azure.microsoft.com), [Fly.io](https://fly.io), [Vultr](https://www.vultr.com)
@@ -26,6 +25,7 @@ Logs, Metrics, Alerts management | [Vector](https://vector.dev), [Datadog](https
 Databases | [Postgresql](https://www.postgresql.org), [Mongodb](https://www.mongodb.com), [Monetdb](https://www.monetdb.org)
 Languages | Python, GO, Javascript, SQL, PlPgsql, C
 
+---
 Education Institution | Degree / Certification | Year
 :-------------------- | :--------------------- | :---
 Executive Education Centre<br>York University Schulich School, Toronto | Developing Emotional Intelligence | 2008
