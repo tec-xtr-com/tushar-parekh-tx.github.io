@@ -18,14 +18,14 @@
 * Deployed [AWS Global Accelerator](https://aws.amazon.com/global-accelerator/) for multi-region failover of [AWS ECS Fargate](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Fargate.html) serverless application clusters.
 * Developed programs/scripts in various languages/shells: [Python](https://www.python.org), [GO](https://go.dev), [Javascript](https://www.javascript.com), [SQL](https://www.postgresql.org/docs/current/sql.html), [PlPgsql](https://www.postgresql.org/docs/current/plpgsql.html), C, [Bash](https://www.gnu.org/software/bash)
 
-[Cerebri AI, Toronto](https://www.cerebriai.com) - Database Architect - March 2016 to November 2018
+[Cerebri AI, Toronto](https://www.cerebriai.com) - Database Architect - March 2016 to Nov 2018
 ---
 * Deployed [Monetdb](https://www.monetdb.org) columnar databases for Machine Learning data sets processing.
 * Created ETL pipelines for processing data from Hadoop clusters for Machine Learning.
 * Designed [Postgresql](https://www.postgresql.org) databases for clients OLTP production data sets.
 * Managed [AWS EC2](https://aws.amazon.com/ec2) instances for Machine learning and data processing workloads.
 
-[Keek Inc, Toronto](https://www.linkedin.com/company/keek) - Business Intelligence Architect - September 2014 to March 2016
+[Keek Inc, Toronto](https://www.linkedin.com/company/keek) - Business Intelligence Architect - Sep 2014 to March 2016
 ---
 * Developed various Business Intelligence solutions resulting in improved ROI, Reporting and Alerting for stakeholders.
 * Created ETL pipelines from [Mongodb](https://www.mongodb.com) clusters to [Monetdb](https://www.monetdb.org) columnar database for BI processing.
