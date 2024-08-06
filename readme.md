@@ -25,7 +25,7 @@
 * Designed [Postgresql](https://www.postgresql.org) databases for clients OLTP production data sets.
 * Managed [AWS EC2](https://aws.amazon.com/ec2) instances for Machine learning and data processing workloads.
 
-Keek Inc, Toronto - Business Intelligence Architect - Sep 2014 to Mar 2016
+[Keek Inc, Toronto](https://www.linkedin.com/company/keek) - Business Intelligence Architect - Sep 2014 to Mar 2016
 ---
 * Developed various Business Intelligence solutions resulting in improved ROI, Reporting and Alerting for stakeholders.
 * Created ETL pipelines from [Mongodb](https://www.mongodb.com) clusters to [Monetdb](https://www.monetdb.org) columnar database for BI processing.
