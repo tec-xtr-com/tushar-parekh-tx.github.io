@@ -1,3 +1,5 @@
+**Work Experience Summary**
+
 [Hypergiant LLC, Austin, Texas](https://www.hypergiant.com) - Senior DevOps Engineer - April 2019 to May 2024
 * Developed IaC projects using [Terraform](https://www.terraform.io) for [AWS EKS](https://aws.amazon.com/eks) clusters with [Flux2](https://fluxcd.io), [Loft](https://loft.sh) vclusters to US government regions having [Karpenter](https://karpenter.sh) managed [Jupyterlab](https://jupyter.org) cpu and gpu workloads..
 * Multi-tenant, secured and isoldated deployment of [Jupyterlab](https://jupyter.org) on data center gpu servers with [Tailscale](https://tailscale.com) integration resulting in optimum utilisation of gpu server resources.
@@ -22,16 +24,13 @@
 * Designed [Postgresql](https://www.postgresql.org) databases for clients OLTP production data sets.
 * Managed [AWS EC2](https://aws.amazon.com/ec2) instances for Machine learning and data processing workloads.
 
-
 Keek Inc, Toronto - Business Intelligence Architect - Sep 2014 to Mar 2016
 * Developed various Business Intelligence solutions resulting in improved ROI, Reporting and Alerting for stakeholders.
 * Created ETL pipelines from [Mongodb](https://www.mongodb.com) clusters to [Monetdb](https://www.monetdb.org) columnar database for BI processing.
 * Deployed distributed [Cassandra](https://cassandra.apache.org) cluster for social media website's storage backend.
 
----
 
-Education Institution | Degree / Certification
-:-------------------- | :---------------------
-Executive Education Centre<br>York University Schulich School, Toronto | Developing Emotional Intelligence
-Learning Tree International, Toronto | Project Management
-National Institute of Information Technology, Bombay | Diploma in Programming
+**Education Summary**
+* Certificate "Developing Emotional Intelligence" from Executive Education Centre, York University Schulich School, Toronto.
+* Certificate "Project Management" from Learning Tree International, Toronto.
+* Diploma in Programming from National Institute of Information Technology, Bombay.
